@@ -6,3 +6,6 @@
 
 ## 결과
 165등/1,650명 (Private 순위)
+
+## 활용 모델
+RandomForest
