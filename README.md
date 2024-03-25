@@ -3,7 +3,7 @@
 ### 파일 설명
 - RandomForest.py : 정확도가 가장 높게 나왔던 코드
 - Preprocessed.py : 전처리 진행했던 코드
-- EDA.ipynb : EDA 해보며 시각화 진행했던 코드
+- EDA.py : EDA 해보며 시각화 진행했던 코드
 
 ## 진행기간
 2024.01.15 ~ 2024.02.05
@@ -21,7 +21,7 @@ RandomForest
 
 ### 과정
 - 데이터 크기: train(96294, 15), test(64197, 14)
-- 모델선정: 과적합(Overfitting)을 줄이고 예측 정확도를 높이기 위해 **RandomForest 모델** 선정
+- 모델선정: NLinearModel, XGBoost 모델보다 정확도가 높게 나온 **RandomForest 모델** 선정
 - 액션:
   1. 'A, B, C' 등의 값으로 되어 있는 '대출등급' 컬럼 값을 숫자로 매핑
   2. 데이터 타입 중 'object'인 컬럼 삭제 (삭제를 했을 때 정확도가 더 올라갔음)
