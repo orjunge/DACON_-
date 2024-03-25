@@ -1,8 +1,9 @@
 # DACON_고객대출등급분류
 데이콘 주최의 [고객대출등급분류 대회](https://dacon.io/competitions/official/236214/overview/description)에 참여했던 코드입니다.
 ### 파일 설명
-- RandomForest.py : 정확도가 가장 높게 나왔던 코드입니다.
-- Preprocessed.py : 전처리 및 EDA를 진행했던 코드입니다.
+- RandomForest.py : 정확도가 가장 높게 나왔던 코드
+- Preprocessed.py : 전처리 진행했던 코드
+- EDA.ipynb : EDA 해보며 시각화 진행했던 코드
 
 ## 진행기간
 2024.01.15 ~ 2024.02.05
