@@ -1,5 +1,5 @@
 # DACON_고객대출등급분류
-데이콘 주최의 고객대출등급분류 대회 참여했던 코드입니다.
+데이콘 주최의 [고객대출등급분류 대회](https://dacon.io/competitions/official/236214/overview/description)에 참여했던 코드입니다.
 
 ## 진행기간
 2024.01.15 ~ 2024.02.05
